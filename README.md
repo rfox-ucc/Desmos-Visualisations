@@ -7,7 +7,7 @@ Jones Matrix Visualiser: Used to visualise arbitrary Jones vectors for the polar
 https://www.desmos.com/calculator/r2razuxkc2 
 
 Animated results for the spherical mirror:
-Spherical Mirror.gif
+SphericalMirror.gif
 
 Results for the Jones Vectors
 Elliptical_Jones.gif
